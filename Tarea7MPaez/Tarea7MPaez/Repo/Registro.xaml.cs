@@ -21,6 +21,7 @@ namespace Tarea7MPaez
             this.conn = DependencyService.Get<Database>().GetConnection();
         }
 
+        
         private void Button_Clicked(object sender, EventArgs e)
         {
             try

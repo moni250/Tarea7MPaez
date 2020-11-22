@@ -4,13 +4,13 @@
              x:Class="Tarea7MPaez.Registro">
     <ContentPage.Content>
         <StackLayout Padding="20" Spacing="30">
-            <Label Text="Nombre"></Label>
+            <Label Text="nombre"></Label>
             <Entry Placeholder="Ingrese tu Nombre"
                    x:Name="nombre"></Entry>
-            <Label Text="Usuario"></Label>
+            <Label Text="usuario"></Label>
             <Entry Placeholder="Ingrese tu Usuario"
                    x:Name="usuario"></Entry>
-            <Label Text="Contraseña"></Label>
+            <Label Text="contraseña"></Label>
             <Entry Placeholder="Ingrese tu Constraseña"
                    x:Name="contra"></Entry>
 
